@@ -5,6 +5,8 @@
     "keywords": [
         "enum", "enumeration", "enumerator"
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "homepage": "https://github.com/demowebtv/enum",
     "license": "MIT",
     "authors": [
