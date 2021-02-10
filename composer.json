@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "demowebtv\\": "src/"
+            "Demowebtv\\": "src/"
         },
         "files": [
             "src/functions.php"
@@ -30,7 +30,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "demowebtv\\Tests\\": "tests/"
+            "Demowebtv\\Tests\\": "tests/"
         }
     },
     "extra": {
